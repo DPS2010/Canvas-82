@@ -42,5 +42,5 @@ function mm (e) {
       ctx.stroke()
     }
 lastx = currentx
-lastx = currenty
+lasty = currenty
 }
